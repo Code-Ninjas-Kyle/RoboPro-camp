@@ -1,7 +1,7 @@
 # Camp Progress
-- [ ] Abstract
-- [ ] Kickoff Meeting
-- [ ] Objectives Outline
+- [x] Abstract
+- [x] Kickoff Meeting
+- [x] Objectives Outline
 - [ ] Break Out
 - [ ] Write Up
 - [ ] Ninjafy
